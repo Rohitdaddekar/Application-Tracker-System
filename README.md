@@ -1,4 +1,4 @@
-#The Screenshot of the Resume ATS (Application Tracking System) Project:
+# The Screenshot of the Resume ATS (Application Tracking System) Project Using Gemini Pro:
   ![Alt text](image.png)
 
 ##Steps to follow:
